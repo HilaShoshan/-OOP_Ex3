@@ -1,6 +1,6 @@
 # -OOP_Ex3
 
-In this project is repesenting a game (Packmen).  
+In this project is repesenting a game.  
 
 we took some fieles from our last project, so to read more Explanations --> https://github.com/HilaShoshan/ObjectOriented_Task2.git.
 
